@@ -9,10 +9,10 @@ Cold email generator for services company using groq, langchain and streamlit. I
 - OptimSpace needs a AI ML Intern and is spending time and resources in the hiring process, on boarding, training etc
 - PixelMind is Software Development company can provide a dedicated AI ML development engineer to OptimSpace. So, the business development executive (Rahul) from PixelMind is going to reach out to OptimSpace via a cold email.
 
-![img.png](imgs/img.png)
+![img.png](img/img.jpeg)
 
 ## Architecture Diagram
-![img.png](imgs/architecture.png)
+![img.png](img/architecture.png)
 
 ## Set-up
 1. To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside `app/.env` update the value of `GROQ_API_KEY` with the API_KEY you created. 
