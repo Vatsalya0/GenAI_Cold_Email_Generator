@@ -31,7 +31,3 @@ if __name__ == "__main__":
     chain = Chain()
     portfolio = Portfolio()
     create_streamlit_app(chain, portfolio, clean_text)
-if __name__ == "__main__":
-    chain = Chain()
-    portfolio = Portfolio()
-    create_streamlit_app(chain, portfolio, clean_text)
